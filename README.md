@@ -1,12 +1,5 @@
 - 👋 Hi, I’m @jab3onski
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in electronics and robotics
+- 🌱 I’m currently learning C#/C++
 
-Woah I can write something there
-
-<!---
-jab3onski/jab3onski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I wish everyone a great day!
